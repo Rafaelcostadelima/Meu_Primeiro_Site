@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: floralwhite;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-size: 350%;
+}
+h3{
+    font-size: x-large;
+}
+p, ul{
+    text-align: justify;
+    line-height: 1.5;
+    font-size: larger;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h2{
+    color: rgba(53, 221, 165, 0.889);
+    font-size: 225%;
+}
