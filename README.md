@@ -4,7 +4,7 @@
 https://rafaelcostadelima.github.io/Meu_Primeiro_Site/
 
 ##CSS Inline
-https://rafaelcostadelima.github.io/Meu_Primeiro_Site/indexinline.html
+https://rafaelcostadelima.github.io/Meu_Primeiro_Site/SiteSemInternet/indexinline.html
 
 ##CSS Interno
 https://rafaelcostadelima.github.io/Meu_Primeiro_Site/IndexInterno.html
